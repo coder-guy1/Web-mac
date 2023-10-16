@@ -1,0 +1,32 @@
+nav div {
+  background-color: aqua;
+  text-align: center;
+}
+#container {
+  border: 2px solid black;
+  display: grid;
+  width: 350px;
+
+  margin: 50px auto;
+  align-items: center;
+}
+h1 {
+  background-color: darkorange;
+}
+input {
+  width: 100%;
+  margin-bottom: 10px;
+}
+li:nth-of-type(3n + 1) {
+  background-color: brown;
+}
+li:nth-of-type(3n + 2) {
+  background-color: violet;
+}
+li:nth-of-type(3n) {
+  background-color: gold;
+}
+span {
+  cursor: pointer;
+  margin-right: 1%;
+}
