@@ -1,3 +1,8 @@
+body {
+  background-image: url("https://www.istockphoto.com/photo/downtown-los-angeles-gm476878798-66810055");
+  background-size: cover;
+}
+
 nav div {
   background-color: aqua;
   text-align: center;
